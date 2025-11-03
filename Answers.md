@@ -27,4 +27,4 @@ Add your answers to the questions in Part 3, Step 2 below.
 
 3. What remediation steps do you suggest? 
 
-**To remediate this issue, I would suggest identifying which components are utilizing an older version of sqlparse and upgrading them all to the latest version (0.5.0).Additionally, restricting users ability to supply nested queries as well as enabling logging helps to prevent damages in the event that immediate upgrading isn't possible.**
+**To remediate this issue, I would suggest identifying which components are utilizing an older version of sqlparse and upgrading them all to the latest version (0.5.0). Additionally, restricting users ability to supply nested queries as well as enabling logging helps to prevent damages in the event that immediate upgrading isn't possible.**
